@@ -1,0 +1,127 @@
+header{
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+
+}
+nav{
+    background-color: #565A97;
+    color: white;
+    padding: 10px;
+    text-align: right;
+    
+}
+.fotoperfil{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-right: 10px;
+    display: flex;
+    position: absolute;
+    left: 500px;
+    top: px;
+    
+}
+.presentacion{
+    color: #333;
+    font-size: 24px;
+    margin: 10px 0;
+    text-align: center;
+}
+footer{
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+.manejo-lenguajes{
+    margin-top: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: right;
+    background-color: #f0f0f0;
+    text-align: center; ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.lenguajes{
+   justify-content: center;   
+   align-items: center;       
+   gap: 20px;
+   flex-wrap: wrap;           
+   padding: 20px;
+
+}
+body {
+    margin: 10px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  .java{
+    text-align: right;
+    position: relative;
+    position: absolute;
+    left: 80%;
+    top: 65%;
+    margin-bottom: 20px;
+    height: 20px;
+    width: 20px;
+    
+  }
+  .python{
+    text-align: right;
+    position: relative;
+    position: absolute;
+    left: 75%;
+    top: 65%;
+    margin-bottom: 20px;
+    height: 20px;
+    width: 20px;
+  }
+  .javascritp{
+    text-align: right;
+    position: relative;
+    position: absolute;
+    left: 70%;
+    top: 65%;
+    margin-bottom: 20px;
+    height: 20px;
+    width: 20px;
+  }
+  .html{
+    text-align: right;
+    position: relative;
+    position: absolute;
+    left: 60%;
+    top: 65%;
+    margin-bottom: 20px;
+    height: 20px;
+    width: 20px;
+  }
+  .css{
+    text-align: right;
+    position: relative;
+    position: absolute;
+    left: 65%;
+    top: 65%;
+    margin-bottom: 20px;
+    height: 20px;
+    width: 20px;
+  }
+  .estudiostitulo{
+    text-align: center;
+    text-align: left;
+    left: 38%;
+    position: relative;
+    position: absolute;
+    display: inline;
+    margin-bottom: 20px;
+  }
+  
+  
+ 
+  
